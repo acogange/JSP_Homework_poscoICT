@@ -1,0 +1,25 @@
+package dto;
+
+import java.io.Serializable;
+import java.sql.Date;
+
+public class MemberDto implements Serializable{
+	private String id;
+	private String pwd;
+	private String name;
+	private Date birth;
+	private String daum;
+	private int height;
+	public MemberDto() {}
+	public MemberDto(String id, String pwd, String name, Date birth, String daum, int height) {
+		super();
+		this.id = id;
+		this.pwd = pwd;
+		this.name = name;
+		this.birth = birth;
+		this.daum = daum;
+		this.height = height;
+	}
+}
+
+

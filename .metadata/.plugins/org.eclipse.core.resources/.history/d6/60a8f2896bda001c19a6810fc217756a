@@ -1,0 +1,104 @@
+package controller;
+
+import java.io.IOException;
+import java.util.List;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import dao.BbsDao;
+import dao.MemberDao;
+import dto.BbsDto;
+
+@WebServlet("/bbs")
+public class BbsController extends HttpServlet{
+
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		doProcess(req, resp);
+	}
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		doProcess(req, resp);
+	}
+	
+	public void doProcess(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException{
+		System.out.println("BbsController doProcess");
+		req.setCharacterEncoding("utf-8");
+		String choice=req.getParameter("choice");
+		String search=req.getParameter("search");
+		String param = req.getParameter("param");
+		if(param.equals("bbslist")) {
+			
+			BbsDao dao = BbsDao.getInstance();
+			
+			if (choice ==null||search==null) {
+				List<BbsDto> list = dao.getBbsList();
+				req.setAttribute("list", list);		// 짐싸!
+			}
+			else {
+				List<BbsDto> listSearch = dao.getBbsSearchList(choice, search);
+				
+				req.setAttribute("list", listSearch);	
+			}
+			
+			
+		//	RequestDispatcher dispatch = req.getRequestDispatcher("bbslist.jsp");
+		//	dispatch.forward(req, resp);
+			forward("bbs/bbslist.jsp", req, resp);	// 잘가!
+			
+			
+		}	
+		
+		else if(param.equals("bbswrite")) {
+			resp.sendRedirect("bbs/bbswrite.jsp");
+		}
+		else if(param.equals("bbswriteAf")) {
+			String id = req.getParameter("id");
+			String title = req.getParameter("title");
+			String content = req.getParameter("content");
+			
+			BbsDao dao = BbsDao.getInstance();
+			String msg="NG";
+			boolean isS = dao.writeBbs(new BbsDto(id, title, content));
+			System.out.println("isS: "+isS);
+			if(isS==true){
+				msg="OK";
+				resp.sendRedirect("message.jsp?proc=bbswrite&msg="+msg);	
+				
+			
+			}else{
+				
+				resp.sendRedirect("message.jsp?proc=bbswrite&msg="+msg);
+			
+				
+				
+			}	
+		}
+		else if(param.equals("bbsdetail"))
+		{
+			int seq = Integer.parseInt(req.getParameter("seq"));
+			BbsDao dao = BbsDao.getInstance();
+			BbsDto dto = (BbsDto) dao.getBbsList();
+			
+			req.setAttribute("dto", dto);
+			forward("bbs/bbsdetail.jsp", req, resp);	
+		}
+
+	}
+	
+	public void forward(String arg, HttpServletRequest req, HttpServletResponse resp)throws ServletException, IOException {
+		RequestDispatcher dispatch = req.getRequestDispatcher(arg);
+		dispatch.forward(req, resp);
+	}
+	
+}
+
+
+
+

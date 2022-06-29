@@ -1,0 +1,311 @@
+
+5월 17, 2022 16:30:51.690 NEW SESSION
+5월 17, 2022 16:30:51.690 [6916:7320:0517/163051.688:ERROR:device_event_log_impl.cc(214)] [16:30:51.687] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 17, 2022 16:31:50.917 [6916:8516:0517/163150.917:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 17, 2022 16:38:41.134 [11300:5576:0517/163841.133:ERROR:device_event_log_impl.cc(214)] [16:38:41.133] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 17, 2022 16:39:38.572 [11300:14040:0517/163938.571:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 17, 2022 17:11:58.989 [11300:5576:0517/171158.989:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 17, 2022 17:11:58.990     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 17, 2022 17:18:30.490 [11300:5576:0517/171830.490:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 17, 2022 17:18:30.491     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 17, 2022 17:22:38.654 [11300:5576:0517/172238.654:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 17, 2022 17:22:38.655     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+
+5월 18, 2022 10:48:58.646 NEW SESSION
+5월 18, 2022 10:48:58.646 [4916:13088:0518/104858.645:ERROR:device_event_log_impl.cc(214)] [10:48:58.644] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+5월 19, 2022 09:47:47.572 NEW SESSION
+5월 19, 2022 09:47:47.572 [12888:1656:0519/094747.565:ERROR:device_event_log_impl.cc(214)] [09:47:47.565] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:47:47.581 [12888:1656:0519/094747.567:ERROR:device_event_log_impl.cc(214)] [09:47:47.567] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:47:47.581 [12888:1656:0519/094747.573:ERROR:device_event_log_impl.cc(214)] [09:47:47.573] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 09:49:50.416 [7284:13180:0519/094950.415:ERROR:device_event_log_impl.cc(214)] [09:49:50.415] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:49:50.417 [7284:13180:0519/094950.417:ERROR:device_event_log_impl.cc(214)] [09:49:50.416] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:49:50.422 [7284:13180:0519/094950.422:ERROR:device_event_log_impl.cc(214)] [09:49:50.421] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 09:50:06.161 [8636:1004:0519/095006.160:ERROR:device_event_log_impl.cc(214)] [09:50:06.161] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:50:06.162 [8636:1004:0519/095006.162:ERROR:device_event_log_impl.cc(214)] [09:50:06.162] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:50:06.168 [8636:1004:0519/095006.167:ERROR:device_event_log_impl.cc(214)] [09:50:06.168] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 09:51:14.870 [14188:1444:0519/095114.870:ERROR:device_event_log_impl.cc(214)] [09:51:14.870] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:51:14.871 [14188:1444:0519/095114.871:ERROR:device_event_log_impl.cc(214)] [09:51:14.871] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:51:14.877 [14188:1444:0519/095114.877:ERROR:device_event_log_impl.cc(214)] [09:51:14.878] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 09:51:34.206 [3540:9860:0519/095134.206:ERROR:device_event_log_impl.cc(214)] [09:51:34.205] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:51:34.207 [3540:9860:0519/095134.207:ERROR:device_event_log_impl.cc(214)] [09:51:34.206] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:51:34.212 [3540:9860:0519/095134.212:ERROR:device_event_log_impl.cc(214)] [09:51:34.211] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 09:52:31.525 [3540:11160:0519/095231.524:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 09:53:40.736 [12672:10312:0519/095340.736:ERROR:device_event_log_impl.cc(214)] [09:53:40.736] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:53:40.737 [12672:10312:0519/095340.737:ERROR:device_event_log_impl.cc(214)] [09:53:40.737] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:53:40.743 [12672:10312:0519/095340.743:ERROR:device_event_log_impl.cc(214)] [09:53:40.743] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 09:53:52.949 [8768:13280:0519/095352.948:ERROR:device_event_log_impl.cc(214)] [09:53:52.948] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:53:52.950 [8768:13280:0519/095352.950:ERROR:device_event_log_impl.cc(214)] [09:53:52.949] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 09:53:52.957 [8768:13280:0519/095352.956:ERROR:device_event_log_impl.cc(214)] [09:53:52.956] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 09:54:50.246 [8768:12536:0519/095450.245:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 10:54:25.174 [8848:8376:0519/105425.174:ERROR:device_event_log_impl.cc(214)] [10:54:25.174] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 10:54:25.175 [8848:8376:0519/105425.175:ERROR:device_event_log_impl.cc(214)] [10:54:25.175] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 10:54:25.180 [8848:8376:0519/105425.180:ERROR:device_event_log_impl.cc(214)] [10:54:25.179] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 10:55:22.927 [8848:14000:0519/105522.927:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 10:56:40.102 [8848:8376:0519/105640.102:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:56:44.27 [8848:8376:0519/105644.027:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:58:27.175 [8848:8376:0519/105827.175:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:58:28.355 [8848:8376:0519/105828.355:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:58:29.452 [8848:8376:0519/105829.452:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:58:29.604 [8848:8376:0519/105829.604:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:58:29.777 [8848:8376:0519/105829.777:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:58:33.214 [8848:8376:0519/105833.214:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 10:58:57.450 [8336:4936:0519/105857.450:ERROR:device_event_log_impl.cc(214)] [10:58:57.450] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 10:58:57.452 [8336:4936:0519/105857.452:ERROR:device_event_log_impl.cc(214)] [10:58:57.452] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 10:58:57.456 [8336:4936:0519/105857.456:ERROR:device_event_log_impl.cc(214)] [10:58:57.456] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 10:59:55.112 [8336:8340:0519/105955.112:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 11:02:03.358 [1036:13080:0519/110203.357:ERROR:device_event_log_impl.cc(214)] [11:02:03.357] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 11:02:03.359 [1036:13080:0519/110203.359:ERROR:device_event_log_impl.cc(214)] [11:02:03.359] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 11:02:03.362 [1036:13080:0519/110203.362:ERROR:device_event_log_impl.cc(214)] [11:02:03.362] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 11:03:01.16 [1036:1192:0519/110301.016:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 13:27:40.785 [1036:13080:0519/132740.785:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:27:42.296 [1036:13080:0519/132742.295:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:27:55.959 [1036:13080:0519/132755.959:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:28:02.331 [1036:13080:0519/132802.330:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:32:31.656 [1036:13080:0519/133231.655:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:32:31.820 [1036:13080:0519/133231.820:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:32:32.821 [1036:13080:0519/133232.821:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:32:42.148 [1036:13080:0519/133242.148:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:35:49.276 [1036:13080:0519/133549.276:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 19, 2022 13:35:49.276     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 19, 2022 13:38:21.534 [1036:13080:0519/133821.533:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:22.464 [1036:13080:0519/133822.464:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:22.622 [1036:13080:0519/133822.622:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:22.791 [1036:13080:0519/133822.791:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:25.130 [1036:13080:0519/133825.130:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:26.815 [1036:13080:0519/133826.815:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:27.853 [1036:13080:0519/133827.853:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:28.126 [1036:13080:0519/133828.126:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 13:38:38.409 [1036:13080:0519/133838.409:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 19, 2022 14:18:15.791 [7772:2780:0519/141815.790:ERROR:device_event_log_impl.cc(214)] [14:18:15.790] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 14:19:13.342 [7772:2544:0519/141913.342:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 14:24:45.443 [4720:6980:0519/142445.443:ERROR:device_event_log_impl.cc(214)] [14:24:45.443] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 14:25:43.170 [4720:5716:0519/142543.170:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 14:31:01.107 [4720:6980:0519/143101.107:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 19, 2022 14:31:01.107     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 19, 2022 14:38:00.345 [4720:6980:0519/143800.345:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 19, 2022 14:38:00.345     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 19, 2022 15:10:32.983 [4720:6980:0519/151032.983:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 19, 2022 15:10:32.983     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 19, 2022 15:27:49.740 [9364:2280:0519/152749.740:ERROR:device_event_log_impl.cc(214)] [15:27:49.740] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 15:27:49.741 [9364:2280:0519/152749.741:ERROR:device_event_log_impl.cc(214)] [15:27:49.741] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 19, 2022 15:27:49.746 [9364:2280:0519/152749.746:ERROR:device_event_log_impl.cc(214)] [15:27:49.746] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 19, 2022 15:28:47.373 [9364:6816:0519/152847.373:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 19, 2022 15:43:12.60 [9364:2280:0519/154312.060:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 19, 2022 15:43:12.60     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 19, 2022 17:06:51.733 [9364:2280:0519/170651.733:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 19, 2022 17:06:51.734     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+
+5월 20, 2022 10:31:16.325 NEW SESSION
+5월 20, 2022 10:31:16.325 [1328:10828:0520/103116.323:ERROR:device_event_log_impl.cc(214)] [10:31:16.323] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 20, 2022 10:32:13.562 [1328:9580:0520/103213.562:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 20, 2022 17:40:49.303 [11988:10684:0520/174049.303:ERROR:device_event_log_impl.cc(214)] [17:40:49.304] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 20, 2022 17:41:46.908 [11988:8932:0520/174146.908:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+5월 20, 2022 17:50:02.361 NEW SESSION
+5월 20, 2022 17:50:02.361 [2228:1680:0520/175002.360:ERROR:device_event_log_impl.cc(214)] [17:50:02.359] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+5월 23, 2022 10:12:19.481 NEW SESSION
+5월 23, 2022 10:12:19.481 [5484:12284:0523/101219.480:ERROR:device_event_log_impl.cc(214)] [10:12:19.480] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 23, 2022 10:13:16.923 [5484:1272:0523/101316.923:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 23, 2022 10:28:04.704 [5484:12284:0523/102804.704:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:28:04.905 [5484:12284:0523/102804.905:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:34:56.442 [5484:12284:0523/103456.442:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:34:56.612 [5484:12284:0523/103456.612:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:34:56.839 [5484:12284:0523/103456.839:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:35:12.602 [5484:12284:0523/103512.602:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:37:14.453 [5484:12284:0523/103714.453:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:37:14.669 [5484:12284:0523/103714.669:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:37:15.302 [5484:12284:0523/103715.301:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:37:16.525 [5484:12284:0523/103716.525:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:37:24.860 [5484:12284:0523/103724.860:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:37:41.704 [11876:6624:0523/103741.704:ERROR:device_event_log_impl.cc(214)] [10:37:41.704] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 23, 2022 10:38:38.991 [11876:11460:0523/103838.991:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 23, 2022 10:44:13.771 [11876:6624:0523/104413.771:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:44:14.09 [11876:6624:0523/104414.009:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:44:39.566 [11876:6624:0523/104439.566:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:44:56.850 [11876:6624:0523/104456.850:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:47:22.900 [11876:6624:0523/104722.900:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:47:33.848 [11876:6624:0523/104733.847:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:48:51.560 [11876:6624:0523/104851.560:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:49:17.871 [11876:6624:0523/104917.871:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:49:51.306 [11876:6624:0523/104951.305:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:49:59.242 [11876:6624:0523/104959.242:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:50:43.122 [11876:6624:0523/105043.122:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:50:50.89 [11876:6624:0523/105050.089:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 10:55:12.312 [11876:6624:0523/105512.311:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:07:01.633 [11876:6624:0523/110701.632:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:07:02.301 [11876:6624:0523/110702.301:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:07:02.484 [11876:6624:0523/110702.484:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:07:15.327 [11876:6624:0523/110715.327:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:07:26.624 [11876:6624:0523/110726.624:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:14:02.579 [11876:6624:0523/111402.579:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:14:04.73 [11876:6624:0523/111404.073:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:14:06.924 [11876:6624:0523/111406.913:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:14:12.461 [11876:6624:0523/111412.461:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:18:54.81 [11876:6624:0523/111854.081:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:18:54.957 [11876:6624:0523/111854.957:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:19:15.851 [11876:6624:0523/111915.851:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:20:26.355 [11876:6624:0523/112026.355:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:20:32.464 [11876:6624:0523/112032.464:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:24:34.465 [11876:6624:0523/112434.465:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:24:38.123 [11876:6624:0523/112438.123:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:25:19.691 [11876:6624:0523/112519.691:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:25:21.324 [11876:6624:0523/112521.324:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:25:30.392 [11876:6624:0523/112530.391:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:26:08.717 [11876:6624:0523/112608.717:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:30:26.295 [11876:6624:0523/113026.295:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 23, 2022 11:30:58.190 [11876:6624:0523/113058.190:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 23, 2022 11:30:58.190     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+
+5월 23, 2022 19:35:23.837 NEW SESSION
+5월 23, 2022 19:35:23.837 [5680:392:0523/193523.832:ERROR:device_event_log_impl.cc(214)] [19:35:23.831] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 23, 2022 19:36:21.444 [5680:2912:0523/193621.444:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 23, 2022 19:48:01.269 [6044:1196:0523/194801.268:ERROR:device_event_log_impl.cc(214)] [19:48:01.269] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 23, 2022 19:48:59.10 [6044:5424:0523/194859.010:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 23, 2022 20:22:24.455 [6044:1196:0523/202224.455:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 23, 2022 20:22:24.455     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+
+5월 24, 2022 17:33:13.263 NEW SESSION
+5월 24, 2022 17:33:13.263 [5180:9284:0524/173313.259:ERROR:device_event_log_impl.cc(214)] [17:33:13.258] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 24, 2022 17:33:55.615 [9868:1396:0524/173355.615:ERROR:device_event_log_impl.cc(214)] [17:33:55.615] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 24, 2022 17:34:52.424 [9868:3136:0524/173452.424:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 24, 2022 17:41:46.403 [8204:10856:0524/174146.402:ERROR:device_event_log_impl.cc(214)] [17:41:46.403] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 24, 2022 17:42:44.00 [8204:1788:0524/174244.000:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 24, 2022 17:45:40.513 [876:7120:0524/174540.513:ERROR:device_event_log_impl.cc(214)] [17:45:40.514] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 24, 2022 17:46:38.277 [876:3696:0524/174638.277:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 24, 2022 17:53:11.963 [7220:4168:0524/175311.963:ERROR:device_event_log_impl.cc(214)] [17:53:11.964] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 24, 2022 17:54:09.478 [7220:3104:0524/175409.478:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 24, 2022 19:07:44.578 [7220:4168:0524/190744.578:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 19:07:45.349 [7220:4168:0524/190745.349:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 19:07:48.194 [7220:4168:0524/190748.194:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 19:07:49.632 [7220:4168:0524/190749.632:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 19:07:55.761 [7220:4168:0524/190755.761:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 19:25:05.530 [7220:4168:0524/192505.530:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 19:25:05.530     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 19:26:20.395 [7220:4168:0524/192620.395:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 19:26:20.395     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 19:27:35.751 [7220:4168:0524/192735.751:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 19:27:35.751     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 19:57:26.317 [7220:4168:0524/195726.317:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 19:57:30.501 [7220:4168:0524/195730.501:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 20:10:10.86 [7220:4168:0524/201010.085:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 20:10:10.86     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 20:13:03.60 [7220:4168:0524/201303.059:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 20:13:03.60     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 20:22:42.860 [7220:4168:0524/202242.859:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 20:22:44.07 [7220:4168:0524/202244.007:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 20:22:44.788 [7220:4168:0524/202244.788:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 24, 2022 20:33:29.246 [7220:4168:0524/203329.246:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 20:33:29.246     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 21:04:47.417 [7220:4168:0524/210447.417:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 21:04:47.418     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 21:41:53.37 [7220:4168:0524/214153.037:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 21:41:53.37     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 21:43:31.869 [7220:4168:0524/214331.869:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 21:43:31.869     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 21:50:01.168 [7220:4168:0524/215001.168:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 21:50:01.168     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 24, 2022 21:50:34.974 [7220:4168:0524/215034.974:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 24, 2022 21:50:34.975     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 08:29:51.349 [3604:9396:0525/082951.348:ERROR:device_event_log_impl.cc(214)] [08:29:51.349] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 08:30:48.781 [3604:2148:0525/083048.780:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 08:33:54.894 [10316:3752:0525/083354.894:ERROR:device_event_log_impl.cc(214)] [08:33:54.893] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 08:34:51.671 [10316:7448:0525/083451.670:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 08:35:44.394 [6516:8548:0525/083544.394:ERROR:device_event_log_impl.cc(214)] [08:35:44.394] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 08:36:41.149 [6516:3616:0525/083641.149:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 08:38:45.11 [984:1388:0525/083845.011:ERROR:device_event_log_impl.cc(214)] [08:38:45.011] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 08:39:41.801 [984:384:0525/083941.800:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 08:46:51.516 [984:1388:0525/084651.515:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 08:46:51.516     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 08:56:22.26 [2224:5440:0525/085622.026:ERROR:device_event_log_impl.cc(214)] [08:56:22.026] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 08:57:18.860 [2224:9660:0525/085718.860:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 08:57:32.275 [2224:5440:0525/085732.275:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 08:57:57.736 [1764:6572:0525/085757.736:ERROR:device_event_log_impl.cc(214)] [08:57:57.736] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 08:58:54.514 [1764:10924:0525/085854.514:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 08:59:02.172 [1764:6572:0525/085902.172:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 08:59:19.185 [1764:6572:0525/085919.185:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 08:59:35.181 [1880:2292:0525/085935.180:ERROR:device_event_log_impl.cc(214)] [08:59:35.180] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 09:00:31.945 [1880:6268:0525/090031.945:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 09:02:37.250 [1880:2292:0525/090237.250:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 09:02:37.250     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 09:03:00.17 [1880:2292:0525/090300.017:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 09:03:00.18     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 09:11:32.823 [1880:2292:0525/091132.823:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 09:11:32.824     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 09:24:21.550 [1880:2292:0525/092421.550:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 09:24:21.550     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 09:45:00.778 [1880:2292:0525/094500.777:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 09:45:00.778     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 10:36:20.344 [1880:2292:0525/103620.343:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 25, 2022 10:37:22.572 [1880:2292:0525/103722.572:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 10:37:22.572     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 10:48:28.120 [1880:2292:0525/104828.119:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 10:49:43.653 [1880:2292:0525/104943.652:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 10:50:02.357 [1880:2292:0525/105002.357:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 10:51:05.763 [1880:2292:0525/105105.763:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 10:51:11.743 [1880:2292:0525/105111.742:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 10:51:46.263 [1880:2292:0525/105146.263:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 10:55:11.950 [1880:2292:0525/105511.950:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 10:55:48.197 [1880:2292:0525/105548.197:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:10:59.898 [1880:2292:0525/111059.898:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:11:00.596 [1880:2292:0525/111100.596:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:11:06.330 [1880:2292:0525/111106.330:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:11:08.262 [1880:2292:0525/111108.261:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:11:08.510 [1880:2292:0525/111108.510:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:11:16.65 [1880:2292:0525/111116.065:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:11:18.818 [1880:2292:0525/111118.818:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:12:56.942 [1880:2292:0525/111256.941:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:12:58.21 [1880:2292:0525/111258.021:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:13:01.378 [1880:2292:0525/111301.378:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:13:59.386 [1880:2292:0525/111359.386:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:14:00.113 [1880:2292:0525/111400.113:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:14:02.649 [1880:2292:0525/111402.649:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:15:11.956 [1880:2292:0525/111511.956:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:15:12.859 [1880:2292:0525/111512.859:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:15:13.88 [1880:2292:0525/111513.088:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:15:14.715 [1880:2292:0525/111514.715:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:15:57.387 [1880:2292:0525/111557.387:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:15:58.35 [1880:2292:0525/111558.035:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:16:00.252 [1880:2292:0525/111600.252:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:17:14.244 [1880:2292:0525/111714.244:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:17:15.289 [1880:2292:0525/111715.289:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:17:15.598 [1880:2292:0525/111715.598:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:17:17.366 [1880:2292:0525/111717.366:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:36:24.98 [1880:2292:0525/113624.098:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:36:28.69 [1880:2292:0525/113628.069:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:36:32.923 [1880:2292:0525/113632.923:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:36:41.117 [1880:2292:0525/113641.117:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:36:44.448 [1880:2292:0525/113644.447:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 11:45:56.54 [1880:2292:0525/114556.054:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 11:45:56.54     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 12:34:19.901 [1880:2292:0525/123419.901:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 25, 2022 12:34:19.902     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 25, 2022 13:39:59.816 [1880:2292:0525/133959.816:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 13:40:58.168 [1880:2292:0525/134058.168:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 13:41:01.384 [1880:2292:0525/134101.384:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 13:41:06.780 [1880:2292:0525/134106.780:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 13:41:14.251 [1880:2292:0525/134114.250:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 14:00:31.952 [1880:10176:0525/140031.951:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 25, 2022 14:02:45.612 [1880:2292:0525/140245.612:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+5월 25, 2022 14:02:49.398 [1880:2292:0525/140249.398:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to DOM.getDocument", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+
+5월 25, 2022 17:28:51.101 NEW SESSION
+5월 25, 2022 17:28:51.101 [9480:7728:0525/172851.093:ERROR:device_event_log_impl.cc(214)] [17:28:51.093] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 17:29:29.744 [8988:9048:0525/172929.744:ERROR:device_event_log_impl.cc(214)] [17:29:29.744] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 17:30:26.849 [8988:10908:0525/173026.849:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+5월 26, 2022 15:14:37.811 NEW SESSION
+5월 26, 2022 15:14:37.811 [9892:1072:0526/151437.806:ERROR:device_event_log_impl.cc(214)] [15:14:37.806] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 26, 2022 15:15:35.545 [9892:5892:0526/151535.545:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 26, 2022 15:22:55.723 [9892:1072:0526/152255.723:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 26, 2022 15:22:55.724     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 26, 2022 15:50:42.282 [9892:1072:0526/155042.282:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 26, 2022 15:50:42.282     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 26, 2022 17:21:50.941 [9892:1072:0526/172150.941:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 26, 2022 17:21:50.941     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 26, 2022 19:40:32.425 [9892:1072:0526/194032.425:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 26, 2022 19:40:32.426     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 26, 2022 19:41:41.214 [9892:1072:0526/194141.214:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot read properties of undefined (reading 'always')
+5월 26, 2022 19:41:41.215     at chrome-extension://cnfngpgfjllafbghaimjcmailafcdhod/releaseDrag.js:90:49", source: https://ogs.google.com/u/0/widget/app?origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+5월 26, 2022 20:15:35.551 [9892:1984:0526/201535.550:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+ <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+ <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+
+ label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+* {
+    box-sizing: border-box;
+}
+.weegle {
+    width: 400px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.img {
+    width: 600px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    
+}
+#search {
+
+    position: relative;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+input {
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #bbb;
+    margin: 10px 0;
+    padding: 10px 12px;
+}
+.fa-search {
+    position: absolute;
+    left: 15px;
+    top: 20px;
+    margin: 0;
+}
+button {
+   width: 100%;
+  border: none;
+  border-radius: 20px;
+  color: #808080;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.fa-keyboard {
+    position: absolute;
+    right: 35px;
+    top: 20px;
+}
+.fa-microphone {
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    color: blue;
+}</style>
+</head>
+<body>
+    <img src="img.JPG" align="center" class="img")>
+    <div id="search" class="buttonContainer">
+      <i class="fas fa-search"></i>
+       <p><input type="text" id="datepicker"></p>
+		
+      <i class="fas fa-keyboard"></i>
+      <i class="fas fa-microphone"></i>
+      <button type="button"onclick="fun1()" >살아온 일수 계산하기</button>
+    </div>
+<h3 class='box'align='center'>당신은 지금까지 <span id='answer'></span>일 살아왔습니다.</h3>
+<h3 id='day'></h3>
+<script type="text/javascript">
+let survival_Day;
+$(function () {
+    $( "#datepicker" ).datepicker({
+    	onSelect:function( d ){
+        	var today = new Date();	
+        	
+        	let month=d.split("/")[0];
+        	let day=d.split("/")[1];
+        	let year=d.split("/")[2];
+        	
+        	var both=new Date(year,month-1,day,0,0,0);
+        	survival_Mili = today - both; // 두 변수의 차를 구한다.
+        	   
+            survival_Day = survival_Mili/1000/60/60/24;// 두 차를 다시 일수로 구하기 위해 1000/60/60/24를 나눠준다.
+            survival_Day=Math.floor(survival_Day);
+    	}
+    });
+  });
+function fun1(){  
+      $("#answer").text(survival_Day);       
+}
+
+</script>
+</body>
+</html>
